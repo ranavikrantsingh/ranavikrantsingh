@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ranavikrantsingh.netlify.app](https://ranavikrantsingh.netlify.app)
 
-- 💬 Ask me about **React, React Native,Redux,Firebase,**
+- 💬 Ask me about **React,Next JS, Express Mongoose,React Native,Redux,Firebase,**
 
 - 📫 How to reach me **ranavikrantsinghrathod@gmail.com**
 
