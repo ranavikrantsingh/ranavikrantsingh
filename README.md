@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on my self
 
-- 🌱 I’m currently learning **Unreal Engine 5**
-
 - 👨‍💻 All of my projects are available at [https://ranavikrantsingh.netlify.app](https://ranavikrantsingh.netlify.app)
 
 - 💬 Ask me about **React,Next JS, Express Mongoose,React Native,Redux,Firebase,**
